@@ -2,7 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/lawn-care-yard-work/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/event-setup-assistant/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/snow-shoveling/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/grocery-pickup-delivery/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/hanging-wall-art/
         </loc>
     </url>
     <url>
